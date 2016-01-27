@@ -1,0 +1,3 @@
+source 'https://github.com/CocoaPods/Specs.git'
+xcodeproj ‘MyContactsIOS’
+pod 'MSGraph-SDK-iOS'
